@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hugo CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2019 12:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2019 17:38:58 +0000</lastBuildDate>
     
 	<atom:link href="https://n33m4.github.io/hugo-cms/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another post</title>
+      <link>https://n33m4.github.io/hugo-cms/post/another-post/</link>
+      <pubDate>Thu, 18 Apr 2019 17:38:58 +0000</pubDate>
+      
+      <guid>https://n33m4.github.io/hugo-cms/post/another-post/</guid>
+      <description> Another post This should appear in menu </description>
+    </item>
     
     <item>
       <title>Sample blog post</title>
