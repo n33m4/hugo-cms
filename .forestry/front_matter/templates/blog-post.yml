@@ -9,20 +9,11 @@ fields:
   name: title
   label: title
 - name: menu
-  type: select
-  default: main
+  type: text
   config:
-    required: true
-    options:
-    - main
-    - " sidebar"
-    - " header"
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Menus
-  description: Select menus this item should show in
+    required: false
+  label: Menu
+  description: Menus to put this item in
+  default: sidebar
 pages:
 - content/post/sample-blog-post.md
