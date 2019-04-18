@@ -1,6 +1,6 @@
 +++
 date = "2019-04-18T17:38:58+00:00"
-menu = "sidebar"
+menu = "main"
 title = "Another post"
 weight = 1
 
