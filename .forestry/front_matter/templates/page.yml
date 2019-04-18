@@ -9,5 +9,4 @@ fields:
   config:
     required: false
 pages:
-- sample-blog-post.md
 - content/_index.md

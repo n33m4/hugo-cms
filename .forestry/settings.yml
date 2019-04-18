@@ -5,15 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: content/post
   label: Posts
   create: all
-  match: post
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 upload_dir: static/s
 public_path: "/hugo-cms/s"
 front_matter_path: ''
