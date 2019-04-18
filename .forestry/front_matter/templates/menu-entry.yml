@@ -1,4 +1,35 @@
 ---
 label: Menu entry
 hide_body: false
-fields: []
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
+  default: now
+- name: menu
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - main
+    - " sidebar"
+    - header
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu
