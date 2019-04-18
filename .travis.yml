@@ -4,6 +4,8 @@ addons:
       - python-pygments
 install:
   - rm -rf public || exit 0
+  - wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+  - sudo dpkg -i hugo.deb
 script:
   - hugo
 deploy:
