@@ -9,6 +9,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: menu
+  type: text
+  config:
+    required: false
+  label: Menu
+  default: main
 pages:
 - content/post/another-post.md
 - content/post/sample-blog-post.md
