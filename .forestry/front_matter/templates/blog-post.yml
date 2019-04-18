@@ -17,4 +17,5 @@ fields:
   description: Menus to put this item in
   default: sidebar
 pages:
+- content/post/another-post.md
 - content/post/sample-blog-post.md
