@@ -9,4 +9,4 @@ fields:
   config:
     required: false
 pages:
-- content/homepage.md
+- content/_index.md
