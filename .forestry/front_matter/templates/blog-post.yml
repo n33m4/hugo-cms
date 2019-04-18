@@ -8,3 +8,19 @@ fields:
 - type: text
   name: title
   label: title
+- name: menu
+  type: select
+  default: main
+  config:
+    required: true
+    options:
+    - main
+    - " sidebar"
+    - " header"
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menus
+  description: Select menus this item should show in
