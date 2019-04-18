@@ -1,6 +1,5 @@
 +++
 date = "2019-04-18T12:39:52+00:00"
-draft = true
 title = "Sample blog post"
 
 +++
