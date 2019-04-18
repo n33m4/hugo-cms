@@ -1,7 +1,6 @@
 +++
 date = "2019-04-18T17:38:58+00:00"
 title = "Another post"
-[menu.main]
 weight = 1
 
 +++
