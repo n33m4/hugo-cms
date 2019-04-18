@@ -33,3 +33,5 @@ fields:
       file: 
       path: 
   label: Menu
+pages:
+- content/post/testing-the-menu.md
