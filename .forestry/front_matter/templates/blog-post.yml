@@ -9,13 +9,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: menu
-  type: text
-  config:
-    required: false
-  label: Menu
-  description: Menus to put this item in
-  default: sidebar
 pages:
 - content/post/another-post.md
 - content/post/sample-blog-post.md
