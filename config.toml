@@ -1,4 +1,4 @@
-baseURL = "n33m4.github.io/hugo-cms/"
+baseURL = "https://n33m4.github.io/hugo-cms/"
 languageCode = "en-us"
 title = "Hugo CMS"
 theme = "hyde"
