@@ -24,3 +24,5 @@ fields:
       path: 
   label: Menus
   description: Select menus this item should show in
+pages:
+- content/post/sample-blog-post.md

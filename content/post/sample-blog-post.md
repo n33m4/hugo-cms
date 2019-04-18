@@ -1,10 +1,9 @@
 +++
 date = "2019-04-18T12:39:52+00:00"
 title = "Sample blog post"
-menu = "main"
+[menu.main]
 
 +++
-
 ## This should be the heading 2
 
 And markdown is actuall good for:
