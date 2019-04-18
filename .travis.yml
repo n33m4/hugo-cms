@@ -14,5 +14,7 @@ deploy:
   github_token: $GITHUB_TOKEN
   keep_history: true
   local_dir: public
+  name: n33m4
+  email: n33m4@yahoo.com
   on:
     branch: master
