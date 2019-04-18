@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Testing the menu</title>
+      <link>https://n33m4.github.io/hugo-cms/post/testing-the-menu/</link>
+      <pubDate>Thu, 18 Apr 2019 20:12:48 +0000</pubDate>
+      
+      <guid>https://n33m4.github.io/hugo-cms/post/testing-the-menu/</guid>
+      <description>Should appear in menu</description>
+    </item>
+    
+    <item>
       <title>Sample blog post</title>
       <link>https://n33m4.github.io/hugo-cms/post/sample-blog-post/</link>
       <pubDate>Thu, 18 Apr 2019 12:39:52 +0000</pubDate>
